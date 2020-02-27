@@ -1,5 +1,5 @@
 # Project Ideas
-A repository of project ideas for FACN7 projects (copied from the FAC15 repo [here](https://github.com/fac-15/project-ideas))
+A repository of project ideas for WebAhead's projects (copied from the FAC15 repo [here](https://github.com/fac-15/project-ideas))
 
 ## Contributing
 
