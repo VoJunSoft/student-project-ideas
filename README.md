@@ -9,6 +9,8 @@ These ideas should be formulated as **problems, not solutions**, so even if you 
 
 You can contribute more than one issue if you like.
 
+Label the issue with the label of your current cohort `WAx` e.g. `WA4`
+
 ### Template:
 
 <hr />
